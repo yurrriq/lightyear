@@ -1,0 +1,5 @@
+[[packages]]
+id = 'ziman/lightyear@dir+/Users/mohacker/src/github.com/yurrriq/lightyear'
+version = '0.1.0'
+dependencies = []
+endencies = []
